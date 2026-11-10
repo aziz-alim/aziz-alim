@@ -52,25 +52,25 @@
 
 | Project | What it shows |
 |---|---|
-| [**Kubernetes GitOps Platform**](https://github.com/aziz-mevlana/kubernetes-03-production-ready-RKE2-HA-cluster) | Jenkins → Docker Hub → ArgoCD → Helm on RKE2; Istio TCP gateway, cert-manager TLS, Prometheus/Grafana |
-| [**Zero-Downtime Swarm Deploy**](https://github.com/aziz-mevlana/jenkins-cicd-deployment) | Jenkins pipeline, Docker Swarm rolling updates (`start-first`), **100% availability** under Siege load test |
-| [**Terraform + Ansible on DigitalOcean**](https://github.com/aziz-mevlana/terraform-digitalOcean) | Provisioning with Terraform, configuration and deploy with Ansible |
-| [**Dockerized Node.js CI/CD**](https://github.com/aziz-mevlana/hello-world-docker) | GitHub Actions build & deploy to a remote server with secrets management |
-| [**Ansible Configuration Management**](https://github.com/aziz-mevlana/configuration-management) | Role-based Ansible playbooks deploying a React app behind Nginx |
-| [**RC Plane Controller**](https://github.com/aziz-mevlana/RcPlaneController) | Arduino + NRF24L01 + MPU6050 wireless flight control with stabilization |
+| [**Kubernetes GitOps Platform**](https://github.com/aziz-alim/kubernetes-03-production-ready-RKE2-HA-cluster) | Jenkins → Docker Hub → ArgoCD → Helm on RKE2; Istio TCP gateway, cert-manager TLS, Prometheus/Grafana |
+| [**Zero-Downtime Swarm Deploy**](https://github.com/aziz-alim/jenkins-cicd-deployment) | Jenkins pipeline, Docker Swarm rolling updates (`start-first`), **100% availability** under Siege load test |
+| [**Terraform + Ansible on DigitalOcean**](https://github.com/aziz-alim/terraform-digitalOcean) | Provisioning with Terraform, configuration and deploy with Ansible |
+| [**Dockerized Node.js CI/CD**](https://github.com/aziz-alim/hello-world-docker) | GitHub Actions build & deploy to a remote server with secrets management |
+| [**Ansible Configuration Management**](https://github.com/aziz-alim/configuration-management) | Role-based Ansible playbooks deploying a React app behind Nginx |
+| [**RC Plane Controller**](https://github.com/aziz-alim/RcPlaneController) | Arduino + NRF24L01 + MPU6050 wireless flight control with stabilization |
 
 <details>
 <summary>🐧 Linux & ops fundamentals (roadmap.sh DevOps projects)</summary>
 
-[Server stats](https://github.com/aziz-mevlana/server-performance-stats) ·
-[Log archive tool](https://github.com/aziz-mevlana/log-archive-tool) ·
-[Nginx log analyser](https://github.com/aziz-mevlana/nginx-log-analyser) ·
-[SSH hardening](https://github.com/aziz-mevlana/remote-ssh-setup) ·
-[Nginx static deploy](https://github.com/aziz-mevlana/nginx-static-site-deploy) ·
-[Systemd service](https://github.com/aziz-mevlana/systemd-service-automation) ·
-[Netdata monitoring](https://github.com/aziz-mevlana/system-monitoring) ·
-[DNS setup](https://github.com/aziz-mevlana/dns-configuration-tutorial) ·
-[GitHub Pages CI/CD](https://github.com/aziz-mevlana/gh-deployment-workflow) ·
-[AWS EC2 deploy](https://github.com/aziz-mevlana/aws-ec2-static-deployment)
+[Server stats](https://github.com/aziz-alim/server-performance-stats) ·
+[Log archive tool](https://github.com/aziz-alim/log-archive-tool) ·
+[Nginx log analyser](https://github.com/aziz-alim/nginx-log-analyser) ·
+[SSH hardening](https://github.com/aziz-alim/remote-ssh-setup) ·
+[Nginx static deploy](https://github.com/aziz-alim/nginx-static-site-deploy) ·
+[Systemd service](https://github.com/aziz-alim/systemd-service-automation) ·
+[Netdata monitoring](https://github.com/aziz-alim/system-monitoring) ·
+[DNS setup](https://github.com/aziz-alim/dns-configuration-tutorial) ·
+[GitHub Pages CI/CD](https://github.com/aziz-alim/gh-deployment-workflow) ·
+[AWS EC2 deploy](https://github.com/aziz-alim/aws-ec2-static-deployment)
 
 </details>
