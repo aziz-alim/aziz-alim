@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aziz-alim/"><img src="https://img.shields.io/badge/LinkedIn-aziz--alim-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://aziz-mevlana.me"><img src="https://img.shields.io/badge/Website-aziz--mevlana.me-1c1917?logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
