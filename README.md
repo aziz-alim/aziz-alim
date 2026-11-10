@@ -3,6 +3,9 @@
   <b>DevOps-focused student · Kubernetes · CI/CD · Infrastructure as Code</b><br/>
   Management Information Systems & Technologies @ Trakya University (4th year)
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aziz-alim/"><img src="https://img.shields.io/badge/LinkedIn-aziz--alim-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
